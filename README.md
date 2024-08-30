@@ -6,3 +6,6 @@ Python Web App to make list to do
 > 2. open browser
 > 3. Add Task to do on input form and `enter`
 > 4. for completing task, check item then you good to go
+
+
+### Notes: This is simple project that i build when i learn pyton again
